@@ -42,31 +42,33 @@ Example 1:
 
 Enter your name: > Tim
 Hello, Tim
-> rock,gun,lightning,devil,dragon,water,air,paper,sponge,wolf,tree,human,snake,scissors,fire
+input> rock,gun,lightning,devil,dragon,water,air,paper,sponge,wolf,tree,human,snake,scissors,fire
 Okay, let's start
-> rock
+input> rock
 Sorry, but the computer chose air
-> !rating
+input> !rating
 Your rating: 0
-> rock
+input> rock
 Well done. The computer chose sponge and failed
-> !rating
+input> !rating
 Your rating: 100
-> !exit
+input> !exit
 Bye!
+
+
 Example 2:
 
 Enter your name: > Tim
 Hello, Tim
-> 
+input> 
 Okay, let's start
-> rock
+input> rock
 Well done. The computer chose scissors and failed
-> paper
+input> paper
 Well done. The computer chose rock and failed
-> paper
+input> paper
 There is a draw (paper)
-> scissors
+input> scissors
 Sorry, but the computer chose rock
-> !exit
+input> !exit
 Bye!
